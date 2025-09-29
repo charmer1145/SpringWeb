@@ -1,11 +1,11 @@
 <html>
 <head>
-<title>SPRINg MVC Application</title>
+<title>SPRING MVC Application</title>
 <style>
 body {
 	font-family: Arial, sans-serif;
 	margin: 20px;
-	background-color: #f9f9f9;
+	background-color: lavender;
 }
 
 .container {
@@ -59,6 +59,11 @@ h2 {
 		<a class="button-link" href="manish" role="button">Hello World</a>
 		<a class="button-link" href="noida" role="button">Noida Page</a>
 		<a class="button-link" href="register" role="button">User Registration</a>
+		<a class="button-link" href="user" role="button">User Info</a>
+		<br>
+		<br>
+		<a class="button-link" href="reservation" role="button">Reservation</a>
+		<a class="button-link" href="login" role="button">User1 Registration</a>
 	</div>
 </body>
 </html>
